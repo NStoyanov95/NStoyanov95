@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi there, I'm Nikolay Stoyanov! 👋</h1>
 
-<!--
-**NStoyanov95/NStoyanov95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning Software Engineering with JavaScript @SoftUni.
+- 💡 Passionate about turning ideas into code.
+- 🚧 Exploring the Express and Angular frameworks.
 
-Here are some ideas to get you started:
+- **JavaScript Fundamentals:** In-depth learning of JavaScript, covering ES6+ features and asynchronous programming.
+- **Frontend Development with Angular:** Exploring the Angular framework for building dynamic and responsive web applications (currently learning).
+- **Backend Development with Node.js and Express:** Delving into server-side development using Node.js and Express.js (currently learning).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🔧 Tech Stack</h2>
+<div align="left">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/></code>
+</div>
+
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-stoyanov-4a8a95186/)
