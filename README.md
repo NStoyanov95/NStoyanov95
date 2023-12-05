@@ -1,5 +1,12 @@
 <h1>Hi there, I'm Nikolay Stoyanov! 👋</h1>
 
+📫 Connect    
+
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-stoyanov-4a8a95186/) 
+[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018584025857) 
+
+
+
 ## 🚀 About Me
 - 🌱 I’m currently learning Software Engineering with JavaScript @SoftUni.
 - 💡 Passionate about turning ideas into code.
@@ -22,4 +29,4 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/></code>
 </div>
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-stoyanov-4a8a95186/)
+
