@@ -2,7 +2,7 @@
 
 <h2>📫 Connect</h2>    
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-stoyanov-4a8a95186/) 
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-stoyanov-4a8a95186/) 
 [![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018584025857) 
 
 
