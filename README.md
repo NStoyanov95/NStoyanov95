@@ -14,7 +14,7 @@
 
 - **JavaScript Fundamentals:** In-depth learning of JavaScript, covering ES6+ features and asynchronous programming.
 - **Frontend Development with Angular:** Exploring the Angular framework for building dynamic and responsive web applications (currently learning).
-- **Backend Development with Node.js and Express:** Delving into server-side development using Node.js and Express.js (currently learning).
+- **Backend Development with Node.js and Express:** Delving into server-side development using Node.js and Express.js.
 
 <h2>🔧 Tech Stack</h2>
 <div align="left">
