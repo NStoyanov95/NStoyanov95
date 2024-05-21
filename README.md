@@ -10,7 +10,6 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning Software Engineering with JavaScript @SoftUni.
 - 💡 Passionate about turning ideas into code.
-- 🚧 Exploring the Express and Angular frameworks.
 
 - **JavaScript Fundamentals:** In-depth learning of JavaScript, covering ES6+ features and asynchronous programming.
 - **Frontend Development with Angular:** Exploring the Angular framework for building dynamic and responsive web applications (currently learning).
