@@ -9,6 +9,8 @@
 
 ## 🚀 About Me
 - 💡 Passionate about turning ideas into code.
+- **Tech Enthusiast:** Passionate about exploring new technologies, constantly learning, and applying innovative solutions to real-world problems.
+
 
 - **Frontend Development with React:** Build user-friendly and responsive web interfaces using React, focusing on components, hooks, and clean design.
 - **Backend Development with Node.js and Express:** Delving into server-side development using Node.js and Express.js.
