@@ -8,7 +8,6 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning Software Engineering with JavaScript @SoftUni.
 - 💡 Passionate about turning ideas into code.
 
 - **Frontend Development with React:** Build user-friendly and responsive web interfaces using React, focusing on components, hooks, and clean design.
