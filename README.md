@@ -30,5 +30,11 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/></code>
 	<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></code>
 </div>
+<hr>
+<span><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NStoyanov95&layout=compact&theme=dark&hide=swift,csharp'/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NStoyanov95&theme=dark"/></a>
+</span>
+
+
 
 
